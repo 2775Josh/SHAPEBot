@@ -5,6 +5,7 @@
 //For Hips: 0 degrees is parallel to the body, 90 is straight down
 //For Abs: 0 degrees is flat, and up is positive
 //All length units are mm, and offsets are in degrees scaled down by a factor of 1.5
+//All time units are in milliseconds
 
 
 //Right Front
